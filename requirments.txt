@@ -1,0 +1,2 @@
+aiocqhttp==0.6.8
+configparser==4.0.2
